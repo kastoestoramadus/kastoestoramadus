@@ -1,16 +1,14 @@
-## Hi there 👋
+## Waldemar Wosiński
 
-<!--
-**kastoestoramadus/kastoestoramadus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Scala & Big Data engineer in Warsaw. 15+ years commercial, 10+ in Scala — banking, fintech and public sector.
 
-Here are some ideas to get you started:
+**What I'm building**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[hocon-formatter](https://github.com/kastoestoramadus/hocon-formatter)** — an opinionated formatter for HOCON, in Scala, cross-built to Scala.js. HOCON is a better config format than YAML and still has no formatter.
+- **[ekrich/sconfig](https://github.com/ekrich/sconfig)** — contributor. The Scala implementation of HOCON that lets scalafmt compile to a native binary. My work sits in the rendering engine: comment preservation, multipath compaction, round-trip fidelity.
+
+Lossless round-tripping is the hard prerequisite for a formatter — which is why the renderer work came first.
+
+**Stack** Scala 3 · Spark · Kafka · Databricks · Cats Effect · Akka · Kubernetes · AWS · GCP
+
+[blog.ww86.eu](https://blog.ww86.eu) · waldemar.wosinski@gmail.com
